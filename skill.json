@@ -1,0 +1,20 @@
+{
+  "name": "genpark-pairwise-bradley-terry-reward-model-skill",
+  "version": "1.0.0",
+  "description": "Bradley-Terry preference model computing choice probabilities, binary cross-entropy loss, and reward gradient updates",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "bradley-terry",
+    "reward-modeling",
+    "rlhf",
+    "preference-learning",
+    "loss-calculator",
+    "python-standard-library",
+    "agent-skills",
+    "alignment",
+    "machine-learning",
+    "developer-tools"
+  ]
+}
